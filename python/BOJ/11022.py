@@ -1,5 +1,5 @@
-while True:
-    try:
-        print(input())
-    except:
-        break
+T = int(input())
+
+for i in range(T):
+    a, b = map(int, input().split())
+    print("Case #{}:".format(i+1),"{}".format(a),"+","{}".format(b),"=",str(a+b))
