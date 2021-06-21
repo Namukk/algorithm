@@ -9,7 +9,6 @@ sorted_L = sorted(L)
 
 for j in sorted_L:
     print(j)
-    
 
 
 # 다른 내 정답
