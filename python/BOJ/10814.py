@@ -13,6 +13,5 @@ for j in range(N):
 
 # for j in sorted_L:
 #     print(j[0], j[1])
-
-
+# https://claude-u.tistory.com/149  참고
 
