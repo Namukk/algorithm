@@ -10,3 +10,5 @@ sorted_L = sorted(L)
 
 for j in range(N):
     print(sorted_L[j])
+
+# https://somjang.tistory.com/entry/Mxmxmxm 참고
