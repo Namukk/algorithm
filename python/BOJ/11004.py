@@ -5,7 +5,6 @@ a = sorted(a)
 
 print(a[T-1])
 
-# pypy3 이용해야 정답
 
 
 # 다른 정답
