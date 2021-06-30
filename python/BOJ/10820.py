@@ -4,7 +4,7 @@ while True:
     N = sys.stdin.readline().rstrip("\n")
 
     if not N:
-        break    
+        break
     a,b,c,d = 0,0,0,0
     for i in N:
         if i.islower():
