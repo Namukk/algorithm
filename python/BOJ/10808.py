@@ -25,3 +25,5 @@ for i in range(len(L)):
 
 # print(" ".join(map(str, arr)))
 
+# https://claude-u.tistory.com/187   이게 왜 됨?
+
