@@ -15,13 +15,17 @@ for i in range(N):
     for j in range(1, b):
         for k in range(j+1, b+1):
             answer += gcd(a[j],a[k])
-    # 제구's advice
+
+    # 제구's advice(위) 아래는 원래 코드
     # for j in range(b):
     #     for k in range(b):
     #         if j < k:
     #             answer += gcd(a[j],a[k])
     
     print(answer)
+
+
+# https://infinitt.tistory.com/234   참고
         
         
     
