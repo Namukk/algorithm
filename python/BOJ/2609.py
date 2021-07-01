@@ -6,7 +6,7 @@ def gcd(A,B):
     while B > 0:
         (A,B) = (B, A%B)
     
-    return(int(A))
+    return(int(A))  # 여긴 int 없어도 됨.
 
 def lcm(A,B):
     return(int(A*B/gcd(A,B)))
