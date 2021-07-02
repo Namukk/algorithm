@@ -8,7 +8,7 @@ for i in range(M):
     s[start_node][end_node] = 1
     s[end_node][start_node] = 1 
 
-def bfs(V, N):
+def bfs(V):
     visit = [False for _ in range(N+1)]
     visit[V] = True
     q = deque()
@@ -31,7 +31,7 @@ def dfs(V):
 
 dfs(V)
 print()
-bfs(V, N)
+bfs(V)
 
 # l = [10,45,12,5]
 # for i in range(len(l)):
