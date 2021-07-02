@@ -11,4 +11,4 @@ while N != 1:
 for j in answer:
     print(j)
 
-# https://devuna.tistory.com/32
+# https://claude-u.tistory.com/183
