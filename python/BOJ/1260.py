@@ -38,3 +38,6 @@ bfs(V, N)
 #     print(i, l[i])
 # for idx, num in enumerate(l):
 #     print(idx, num)
+
+
+# https://jokerldg.github.io/algorithm/2021/03/22/dfs-bfs.html   참고
