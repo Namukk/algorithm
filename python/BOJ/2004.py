@@ -22,3 +22,5 @@ else:
 
 
 # https://claude-u.tistory.com/242   답 참고
+
+# https://deok2kim.tistory.com/195   설명 참고
