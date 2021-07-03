@@ -31,4 +31,7 @@ for _ in range(T):
                 S[v][w] = 0
                 count += 1
     print(count)
+
+
+# https://velog.io/@sch804/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B0%B1%EC%A4%80-1012%EB%B2%88-%EC%9C%A0%EA%B8%B0%EB%86%8D-%EB%B0%B0%EC%B6%94
         
