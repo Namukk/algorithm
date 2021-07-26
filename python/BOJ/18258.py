@@ -30,3 +30,6 @@ for i in range(N):
             print(-1)
         else:
             print(q[-1])
+
+
+# https://pacific-ocean.tistory.com/232    참고
